@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+data/*
+!data/.gitkeep
+outputs/*
+!outputs/.gitkeep
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.csv
+*.json
+*.task
