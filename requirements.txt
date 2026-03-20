@@ -1,0 +1,8 @@
+pandas
+numpy
+opencv-python
+mediapipe
+requests
+transformers
+accelerate
+sentencepiece
